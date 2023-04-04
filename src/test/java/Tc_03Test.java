@@ -12,6 +12,7 @@ public class Tc_03Test {
 	@Test(groups = "smoke")
 	public void testMethod7() {
 		System.out.println("build created-----07");
+		System.out.println("build created-----08");
 	}
 
 
