@@ -8,6 +8,7 @@ public class Tc_04Test {
 	@Test(groups = "regression")
 	public void testMethod2() {
 		System.out.println("build created succesfully----");
+		System.out.println("build created-----08");
 	}
 
 
